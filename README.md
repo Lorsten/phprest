@@ -9,5 +9,5 @@
 * For POST and PUT the client uses json. The following properies for POST is courseID, coursename, progression, courseSyllabus
 
 *  FOR UPDATe ID, courseiD, coursename, progression, courseSyllabus
-
+http://studenter.miun.se/~olan1700/dt057g/php_rest/ link for online test of server
 ### Author Olof Andersson
