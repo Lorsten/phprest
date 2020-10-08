@@ -10,4 +10,4 @@
 
 *  FOR UPDATe ID, courseiD, coursename, progression, courseSyllabus
 
-### Auther Olof Andersson
+### Author Olof Andersson
