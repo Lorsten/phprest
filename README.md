@@ -2,7 +2,7 @@
 
 * For retrieving data with GET use the path /
 
-* For getting a single row use GET and  /?ID=courseID(id from table)
+* For getting a single row use GET and  /?ID=courseID(courseID from table)
 
 * For deleting a row use the DELETE and path /?ID=ID(primary id from table) 
 
